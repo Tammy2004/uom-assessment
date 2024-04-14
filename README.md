@@ -7,7 +7,7 @@ Program overview:
 The program prompts the user to input an ontology ID. If this ID is valid, the program will then fetch the required details (ontology title, description, number of terms & status). 
 After this process, it will ask the user if the details should be printed to the terminal in machine-readable format or human-readable format.
 
-If the ID is invalid, the program will prompt the user until a valid ontology ID is entered.
+If the ID is invalid or an incorrect output format is entered, the program will prompt the user until a valid input is entered.
 
 Usage instructions:
 
