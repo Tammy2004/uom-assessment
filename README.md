@@ -13,11 +13,11 @@ Usage instructions:
 
 1. Command Line
 
-python ontology_details.py
+   python ontology_details.py
 
 2. Visual Studio Code (/any other IDE)
 
-Open the ontology_details.py file in Visual Studio Code.
-At the right side of the bar with file tabs, find the "Run or Debug" icon (▷) and click it.
+  Open the ontology_details.py file in Visual Studio Code.
+  At the right side of the bar with file tabs, find the "Run or Debug" icon (▷) and click it.
 
-Alternatively, open a new terminal and use the command line command to run the program.
+  Alternatively, open a new terminal and use the command line command to run the program.
